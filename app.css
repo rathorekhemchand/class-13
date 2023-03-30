@@ -1,0 +1,49 @@
+*{
+    padding: opx;
+    margin: opx;
+}
+#div2{
+    color: white;
+    background-color: #9828c8;
+    width: 100%;
+}
+#div3{
+    /*display: inline-flex;*/
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+#one{
+    padding: 25px;
+}
+#div5,#div6,#div7,#div8{
+    background-color: #4cb8c2;
+    color: white;
+    width: 300px;
+    margin: 10px;
+    padding: 8px;
+    font-size: 20px;
+    margin-right: 20px;
+}
+#div9{
+    font-size: 25px;
+    margin: 25px;
+    margin-top: 30px;
+}
+#div10{
+    background-color: #4cb8c2;
+    color: white;
+    width: 300px;
+    text-align: center;
+    margin: 10px;
+    float: right;
+    margin-left: 30px;
+}
+#div11{
+    margin: 20px;
+    color: white;
+    background-color: #4cb8c2;
+    text-align: center;
+    padding: 25px;
+}
